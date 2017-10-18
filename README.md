@@ -1,8 +1,8 @@
 # GreenIT - Education project [ESEO]
 
-[Code](https://img.shields.io/badge/code-Swift%20%2B%20React--Native%20%2B%20Android-brightgreen.svg)
-[Platform](https://img.shields.io/badge/platform-Android%20%26%20iOS-red.svg)
-[Contributors](https://img.shields.io/badge/contributors-Sonasi%20Katoa-blue.svg)
+![Code](https://img.shields.io/badge/code-Swift%20%2B%20React--Native%20%2B%20Android-brightgreen.svg)
+![Platform](https://img.shields.io/badge/platform-Android%20%26%20iOS-red.svg)
+![Contributors](https://img.shields.io/badge/contributors-Sonasi%20Katoa-blue.svg)
 
 ## Description
 
