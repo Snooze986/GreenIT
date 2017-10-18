@@ -14,10 +14,10 @@
 > Nous avons donc réalisé 3 Applications :
 > - iOS en utilisant Swift
 > - Android en utilisant Java
-> - iOS & Android en utilisant React-Native.
+> - iOS & Android en utilisant React-Native
 >
 >
-> Cette application liste simplement 21 Films (actuellement au cinéma [18.10.2017] avec
+> Ces applications listent simplement 21 Films (actuellement au cinéma [18.10.2017] avec
 > leurs titres et leurs affiches chargées asynchronement depuis les serveurs d'[Allocine](http://www.allocine.fr).
 >
 > Le relevé de mesure a pu être fait grace à [PowerAPI](http://www.powerapi.org).
