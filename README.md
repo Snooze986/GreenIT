@@ -6,7 +6,7 @@
 
 ## Description
 
-> Ces applications relèvent d'un projet étudiant dans le cadre d'une étude du Green IT.
+> Ces applications relèvent d'un projet étudiant dans le cadre d'une étude Green IT.
 > 
 > Des sujets étaient proposés mais mon groupe et moi même nous sommes tournés vers une
 > étude de la consommation énergetique d'applications natives et React-Native.
@@ -17,7 +17,7 @@
 > - iOS & Android en utilisant React-Native
 >
 >
-> Ces applications listent simplement 21 Films (actuellement au cinéma [18.10.2017] avec
+> Ces applications listent simplement 21 Films (actuellement au cinéma [18.10.2017]) avec
 > leurs titres et leurs affiches chargées asynchronement depuis les serveurs d'[Allocine](http://www.allocine.fr).
 >
 > Le relevé de mesure a pu être fait grace à [PowerAPI](http://www.powerapi.org).
